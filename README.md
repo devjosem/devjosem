@@ -23,8 +23,8 @@ Backend Developer | Python | Flask | FastAPI
 ---
 
 ## 📊 GitHub Stats
-!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josedevem)
-
+anuraghazra/github-readme-stats
+DenverCoder1/github-readme-streak-stats
 ---
 
 ## 📫 Contacto
