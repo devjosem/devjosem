@@ -23,7 +23,7 @@ Backend Developer | Python | Flask | FastAPI
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=devjosem&show_icons=true)
+!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josedevem)
 
 ---
 
