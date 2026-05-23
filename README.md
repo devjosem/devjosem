@@ -12,6 +12,7 @@ Backend Developer | Python | Flask | FastAPI
 - Em evolução constante como engenheiro de software
 
 ---
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20best%20coding%20assistant.&theme=dark&color=%233b82f6&particleColor=%23ffffff&background=%230d1117)
 
 ## 🛠️ Tecnologias
 - Python
