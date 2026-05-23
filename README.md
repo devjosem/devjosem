@@ -15,12 +15,12 @@ Backend Developer | Python | Flask | FastAPI | APIs REST
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor backend focado na criação de APIs REST escaláveis e eficientes.
+Desenvolvedor backend focado em APIs REST, automação e construção de sistemas escaláveis com Python.
 
-- Desenvolvimento de APIs com **Flask e FastAPI**
-- Automação de processos com Python
-- Estruturação de sistemas backend limpos e escaláveis
-- Estudante constante de engenharia de software
+- APIs REST com Flask e FastAPI  
+- Automação com Python  
+- Estruturas backend limpas e escaláveis  
+- Evolução contínua em engenharia de software  
 
 ---
 
@@ -38,7 +38,7 @@ Sou desenvolvedor backend focado na criação de APIs REST escaláveis e eficien
 **Ferramentas**
 - Git & GitHub
 - Postman
-- Linux (básico/intermediário)
+- Linux
 
 ---
 
@@ -46,30 +46,42 @@ Sou desenvolvedor backend focado na criação de APIs REST escaláveis e eficien
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devjosem&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjosem&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-github.pages.dev/api/top-langs?username=devjosem&theme=dark" height="160"/>
 </p>
 
 ---
 
-## 📌 Foco Atual
+## 🌐 Redes Sociais
 
-- Construção de APIs REST profissionais
-- Melhorar arquitetura backend (clean code + boas práticas)
-- Evoluir em FastAPI e sistemas escaláveis
-- Projetos reais para portfólio
+<p align="center">
+
+  <a href="mailto:josedev777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="https://wa.me/244939815394">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/>
+  </a>
+
+  <a href="https://github.com/devjosem">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"/>
+  </a>
+
+</p>
 
 ---
 
-## 📫 Contacto
+## 🎯 Foco Atual
 
-- Email: **josedev777@gmail.com**
-- WhatsApp: **+244 939 815 394**
-- GitHub: https://github.com/devjosem
+- Desenvolvimento de APIs profissionais
+- Melhorar arquitetura backend (clean code)
+- Escalabilidade e boas práticas
+- Projetos reais para portfólio
 
 ---
 
 ## ⚡ Objetivo
 
-Construir soluções backend eficientes, escaláveis e prontas para produção, com foco em impacto real.
+Criar soluções backend eficientes, escaláveis e prontas para produção com impacto real.
 
 ---
