@@ -23,6 +23,7 @@ Backend Developer | Python | Flask | FastAPI
 ---
 
 ## 📊 GitHub Stats
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=devjosem&theme=dark)
 
 ---
 
