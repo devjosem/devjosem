@@ -23,10 +23,10 @@ Backend Developer | Python | Flask | FastAPI
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=josedevm&show_icons=true)
 
 ---
 
 ## 📫 Contacto
-- Email: teuemail@gmail.com
-- WhatsApp: link
+- Email: josedev777@gmail.com
+- WhatsApp: +244 939815394
